@@ -1,1 +1,2 @@
-# React-JS-W2
+## 團隊成員
+- Eddie
